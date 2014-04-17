@@ -1,7 +1,7 @@
 apply plugin: 'android'
 
 def Properties localProps = new Properties()
-localProps.load(new FileInputStream(file(System.properties['user.home'] + '/.android/local.properties')))
+localProps.load(new FileInputStream(file('local.properties')))
 
 android {
     compileSdkVersion 19
