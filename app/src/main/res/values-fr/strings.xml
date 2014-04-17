@@ -1,0 +1,7 @@
+<resources>
+    <!-- app -->
+    <string name="app_name">Muzei Montréal Archives Photographiques</string>
+    <string name="source_name">Archives photographiques de Montréal</string>
+    <string name="source_description">Photographie hebdomadaire\nprovenant des données ouvertes.</string>
+
+</resources>

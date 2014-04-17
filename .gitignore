@@ -1,0 +1,12 @@
+# gradle
+.gradle/
+/build
+# project libs
+/libs/Parse-1.4.3/Parse-1.4.3-javadoc/
+/libs/Parse-1.4.3/Parse-1.4.3.jar.properties
+/libs/Parse-1.4.3/third_party_licenses.txt
+#Android Studio
+*.iml
+.idea/
+#Mac
+.DS_Store
