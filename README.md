@@ -20,5 +20,5 @@ Muzei Montreal Archives
 * Source code: https://github.com/fabLouis/muzei-montreal-photographic-archives 
 * Icons designed by leonardo.acebedo(at)gmail.com
 
-
+<img src="https://db.tt/TL8EqODM" height="150" align="right" hspace="80">
 Credits: **« Archives de la Ville de Montréal »**
