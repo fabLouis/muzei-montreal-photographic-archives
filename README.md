@@ -1,7 +1,7 @@
 Muzei Montreal Archives
 ====================================
 
-<img src="https://db.tt/7puwpUIG" width="300" align="right">
+<img src="http://goo.gl/PAsyz6" width="300" align="right">
 
 *Muzei Montreal Archives (photographic) is an extension for the Muzei live-wallpaper application*
 
@@ -17,8 +17,8 @@ Muzei Montreal Archives
 
 **Links:**
 * Photographics archives from Montreal Open Data: http://donnees.ville.montreal.qc.ca/dataset/phototheque-archives
-* Source code: https://github.com/fabLouis/muzei-montreal-photographic-archives 
+* Source code: https://github.com/fabLouis/muzei-montreal-photographic-archives
 * Icons designed by leonardo.acebedo(at)gmail.com
 
-<img src="https://db.tt/TL8EqODM" height="150" align="right" hspace="80">
+<img src="http://goo.gl/WGgG8t" height="150" align="right" hspace="80">
 Credits: **« Archives de la Ville de Montréal »**
