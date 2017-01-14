@@ -1,11 +1,5 @@
 <resources>
-    <!-- app -->
     <string name="app_name">Muzei Montreal Photographic Archives</string>
     <string name="source_name">Montreal photographic archives</string>
     <string name="source_description">Weekly photograph\nfrom Open Data.</string>
-
-    <!-- Parse information -->
-    <string name="parse_applicationId">TODO</string>
-    <string name="parse_clientKey">TODO</string>
-
 </resources>

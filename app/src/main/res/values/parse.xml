@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Parse (buddy) information -->
+    <string name="parse_applicationId" translatable="false">dc92dabc-cd07-45ee-8d21-e019a4f3ccf4</string>
+    <string name="parse_clientKey" translatable="false">FEPDSkDBX1OzVDFTw1jqul1BBtsXSj06</string>
+    <string name="parse_endpoint" translatable="false">https://api.parse.buddy.com/parse/</string>
+</resources>

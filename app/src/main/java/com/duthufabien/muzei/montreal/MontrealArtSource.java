@@ -44,7 +44,7 @@ public class MontrealArtSource extends RemoteMuzeiArtSource {
             }
         };
         RestAdapter restAdapter = new RestAdapter.Builder()
-            .setEndpoint(ParseAPIService.API_URL)
+            .setEndpoint(getString(R.string.parse_endpoint))
             .setRequestInterceptor(requestInterceptor)
             .build();
 

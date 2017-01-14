@@ -6,18 +6,16 @@ import java.util.List;
 import retrofit.http.GET;
 import retrofit.http.Query;
 
-public interface ParseAPIService {
-
-    public static String API_URL = "https://api.parse.com/1";
+interface ParseAPIService {
 
     @GET("/classes/PhotothequeArchives?limit=1")
     ParseResponse getPhotothequeArchive(@Query("skip") int skip);
 
-    static class ParseResponse {
+    class ParseResponse {
         List<PhototequeArchive> results;
     }
 
-    static class PhototequeArchive {
+    class PhototequeArchive {
         String Titre;
         String Description;
         String Date;
